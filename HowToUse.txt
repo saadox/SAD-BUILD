@@ -1,0 +1,17 @@
+//how to use 
+//Star lawal = Comment
+//Star tani = Smiya d form
+//objects=smiya dyal les Controls exmpl : ListBox,TextBox,PictureBox
+//Bach t39el 3la les Controls li m3awdin dir TextBox[telephone]
+//Derna par exemple 2 objects=TextBox,Button
+//ya3no kol object ghadi ykon 3ndo proproetes dyalo
+//btarti ghandiro :
+//props1
+//...etc
+//star khawi flakhr d props dima
+
+//props2
+//smiya d button : name=logBtn
+//etc..
+
+//End flakhr

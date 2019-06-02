@@ -1,0 +1,28 @@
+// Form of login
+SAAD TEST FORM
+objects=TextBox[name],TextBox[pass],Button[login],ListBox[choix]
+props1
+name=username
+text=test
+
+props2
+name=password
+text=passTest
+
+props3
+name=login
+text=Login
+width=200
+height=80
+BackColor=white
+ForeColor=black
+enabled=true
+
+props4
+name=ListPicks
+Items[0]=facebook
+Items[1]=google
+Items[2]=Youtube
+height= 500
+
+//END
